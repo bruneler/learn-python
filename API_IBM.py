@@ -39,3 +39,7 @@ translation = translation_response.get_result()
 spanisch_translation = translation["translation"][0]["translation"]
 print(spanisch_translation)
 
+
+
+
+
