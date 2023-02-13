@@ -130,3 +130,13 @@ C = np.dot(A, B)
 print(C)
 print(np.dot(A, B))
 
+var = "01234567"
+print(var[::2])
+print(var[::3])
+
+a = np.array([0,1,0,1,0])
+b = np.array([1,0,1,0,1])
+print(a+b)
+
+a = np.array([10,9,8,7,6])
+print(a+1)

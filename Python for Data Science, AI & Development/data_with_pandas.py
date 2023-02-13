@@ -39,5 +39,13 @@ print(songs_frame.loc[0:2, "Album"])
 print(songs_frame.iloc[0:2, 0])  # mit iloc am schluss eine zahl mehr
 # von:bis(Zeile),Spalte
 
+A = ["1","2","3"]
+for a in A:
+    print(2*a)
+
+
+for i in range(1, 5):
+    if (i!=2):
+        print(i)
 
 
